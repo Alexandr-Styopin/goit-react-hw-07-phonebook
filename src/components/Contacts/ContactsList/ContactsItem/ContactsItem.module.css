@@ -1,0 +1,18 @@
+.contactItem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 500px;
+}
+
+.contactText {
+  margin-right: 15px;
+}
+.contactBtn {
+  display: block;
+  padding: 10px;
+
+  border: 0;
+
+  background-color: rgb(218, 194, 62);
+}
